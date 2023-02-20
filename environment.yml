@@ -1,0 +1,14 @@
+name: lighthouse
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - jupyterlab
+  - nb_conda_kernels
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - imbalanced-learn
+  - tensorflow
