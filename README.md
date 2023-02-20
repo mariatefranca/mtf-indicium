@@ -1,6 +1,6 @@
 # mtf-data-science-lighthouse
 
-The main objective is to identify which machines will potentially fail and predict their failure type based on data extracted through sensors during the manufacturing process.
+The main objective of this project is to identify which machines will potentially fail and predict their failure type based on data extracted through sensors during the manufacturing process.
 
 ![correlation](https://user-images.githubusercontent.com/106438902/220067151-ec586ad7-0569-4d01-99ce-1e106681dfce.png)
 
